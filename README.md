@@ -13,11 +13,11 @@ A React and TypeScript application for displaying a gallery of pets with interac
 
 ## Features
 
-- **Image Gallery**: Display a list of pet images with details like title, description, and creation date.
+- **Image Gallery**: Display a list of pet images with details like title, description, and creation date. Sort pets alphabetically (A-Z).
   <img width="1040" alt="Screenshot 2024-11-14 at 12 32 39 PM" src="https://github.com/user-attachments/assets/de9244df-a07a-45a9-a542-cd06fc23fe13">
 - **Interactive Search**: Filter pets by title or description using a search bar.
   <img width="618" alt="Screenshot 2024-11-14 at 12 33 01 PM" src="https://github.com/user-attachments/assets/84e53ca0-03d0-4607-b05f-1ceb5ce05475">
-- **Sort Functionality**: Sort pets alphabetically (A-Z and Z-A).
+- **Sort Functionality**: Sort pets alphabetically (Z-A).
   <img width="1049" alt="Screenshot 2024-11-14 at 12 32 45 PM" src="https://github.com/user-attachments/assets/022c7bb3-9678-4dde-8c8d-a0b2306f43ed">
 - **Selection Controls**: Select individual pets, select all, and clear all selections.
   <img width="1038" alt="Screenshot 2024-11-14 at 1 00 17 PM" src="https://github.com/user-attachments/assets/296147ea-1921-42e3-8602-ecc8df660c8f">

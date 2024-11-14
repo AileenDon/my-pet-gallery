@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "cat1.jpg",
+    "title": "Dracula Cat",
+    "description": "A cute cat dressed as Dracula.",
+    "createdAt": "2024-11-01T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "imageUrl": "dog1.jpg",
+    "title": "Bowtie Dog",
+    "description": "A small dog wearing a bowtie.",
+    "createdAt": "2024-11-02T10:30:00Z"
+  },
+  {
+    "id": "3",
+    "imageUrl": "image2.png",
+    "title": "Sunflower Dog",
+    "description": "A Shiba Inu with a sunflower around its neck.",
+    "createdAt": "2024-11-03T08:45:00Z"
+  },
+  {
+    "id": "4",
+    "imageUrl": "rabbit1.avif",
+    "title": "Adorable Rabbit",
+    "description": "A cute rabbit.",
+    "createdAt": "2024-11-04T09:15:00Z"
+  }
+]
